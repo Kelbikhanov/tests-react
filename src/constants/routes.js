@@ -9,7 +9,7 @@ import PartnerProfile from "../components/pages/PartnerProfile";
 
 const routes = [
   {
-    path: '/',
+    path: '/tests-react',
     component: Home
   },
   {

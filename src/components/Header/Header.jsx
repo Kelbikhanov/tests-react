@@ -38,7 +38,7 @@ const Header = () => {
       <div className="container container--large">
         <Content>
           <Logo>
-            <Link to="/">
+            <Link to="/tests-react">
               <img src={LogoImage} alt="nootris" />
             </Link>
           </Logo>

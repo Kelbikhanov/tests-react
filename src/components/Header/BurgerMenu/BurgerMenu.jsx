@@ -15,7 +15,7 @@ const BurgerMenu = ({ toggleBurger }) => {
       <Content>
         <List>
           <Item>
-            <Link onClick={() => CloseMenu()} to="/">
+            <Link onClick={() => CloseMenu()} to="/tests-react">
               Главная
             </Link>
           </Item>
