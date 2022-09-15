@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/tests-react/static/css/main.e6c13ad2.css",
+    "main.js": "/tests-react/static/js/main.e5b43a1d.js",
+    "static/media/ginger.png": "/tests-react/static/media/ginger.1bc324eb1f4a3cc3ab62.png",
+    "static/media/Lemon.png": "/tests-react/static/media/Lemon.27b4b77da8556fa66ff6.png",
+    "static/media/nootris.png": "/tests-react/static/media/nootris.cccbe177a3eb3bd69c78.png",
+    "static/media/bg.jpg": "/tests-react/static/media/bg.b667a43e47085aa8ba3f.jpg",
+    "static/media/nootris-min.png": "/tests-react/static/media/nootris-min.fd33ff42bd7fbc589292.png",
+    "static/media/vorus.png": "/tests-react/static/media/vorus.bb757e873de94b4563b4.png",
+    "static/media/logo.svg": "/tests-react/static/media/logo.9bc7fb2adc97284134f2bc4f4bcb7d5b.svg",
+    "index.html": "/tests-react/index.html",
+    "main.e6c13ad2.css.map": "/tests-react/static/css/main.e6c13ad2.css.map",
+    "main.e5b43a1d.js.map": "/tests-react/static/js/main.e5b43a1d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.e5b43a1d.js"
+  ]
+}
